@@ -45,7 +45,10 @@ nav a:hover {
 }
 
 .cart-header h1 {
-    color: #79583e;
+    background-color: #a17c57;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 8px;
 }
 
 .cart-header a {
